@@ -82,9 +82,9 @@ const AppMenu = () => {
                                 setCollapseOpen(true);
                             }}
                         >
-                            <span className="navbar-toggler-bar bar1" />
+                            {/* <span className="navbar-toggler-bar bar1" />
                             <span className="navbar-toggler-bar bar2" />
-                            <span className="navbar-toggler-bar bar3" />
+                            <span className="navbar-toggler-bar bar3" /> */}
                         </button>
                     </div>
 

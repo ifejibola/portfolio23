@@ -25,6 +25,15 @@ function Footer() {
                                 </li>
                                 <li>
                                     <a
+                                        href="mailto:ife.jibola@gmail.com"
+                                        target="_blank"
+                                        className="mr-1"
+                                    >
+                                        Email
+                                    </a>
+                                </li>
+                                <li>
+                                    <a
                                         href="https://www.linkedin.com/in/ife-ajibola-22796611a/"
                                         target="_blank"
                                         className="mr-1"

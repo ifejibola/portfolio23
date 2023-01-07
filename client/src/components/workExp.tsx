@@ -31,7 +31,7 @@ function Work() {
                     <Row>
                         <Col md="7" sm="12">
                             <h4>
-                                <small>BoomGaming | Full-Stack Developer </small>
+                                <small>BoomGaming | Full-Stack Developer | </small>
                                 <small>May 2022 - Dec 2022 </small>
                             </h4>
                             <Row>
@@ -101,31 +101,41 @@ function Work() {
                                     {/* Tab panes */}
                                     <TabContent activeTab={"vTabs" + vTabs}>
                                         <TabPane tabId="vTabs1">
+                                            <p>{" "}</p>
+                                            <br />
                                             <p>
-                                                Managed day-to-day operaDons of web-based gaming platform. This included monitoring server and platform performance,
-                                                troubleshooting bugs in a Dmely manner, maintaining up-to-date Jira sprints,
+                                                Managed day-to-day operations of web-based gaming platform. This included monitoring server and platform performance,
+                                                troubleshooting bugs in a timely manner, maintaining up-to-date Jira sprints,
                                                 and releasing rewards to specific eligible customers daily
                                             </p>
 
                                         </TabPane>
                                         <TabPane tabId="vTabs2">
+                                            <p>{" "}</p>
+                                            <br />
                                             <p>
                                                 Automated discount functionality to reduce in-app currency prices during defined promotional periods and awarded the currency value to customers that transacted.
                                                 This reduced a manual runDme of 24 hours to a few minutes, requiring limited user inputs
                                             </p>
                                         </TabPane>
                                         <TabPane tabId="vTabs3">
+                                            <p>{" "}</p>
+                                            <br />
                                             <p>
-                                                Ideated and developed platform features to improve front and back-end operations, such as retrieving and organizing key customer metrics and atrributes to facilitate customer segmentaDon for targeted marketing efforts
+                                                Ideated and developed platform features to improve front and back-end operations, such as retrieving and organizing key customer metrics and atrributes to facilitate customer segmentation for targeted marketing efforts
                                             </p>
 
                                         </TabPane>
                                         <TabPane tabId="vTabs4">
+                                            <p>{" "}</p>
+                                            <br />
                                             <p>
                                                 Automated gaming event leaderboards, querying MySQL databases and back-end rest APIs based on user inputs. This was leveraged to determine end-user reward distribution, enabling immediate delivery and reducing 30-minutes of manual runtime daily
                                             </p>
                                         </TabPane>
                                         <TabPane tabId="vTabs5">
+                                            <p>{" "}</p>
+                                            <br />
                                             <p>
                                                 Facilitated analytical assessment of week-over-week sales by leveraging MySQL to transpose sales data into digestable metrics to be reviewed by the business operations team
                                             </p>
@@ -135,6 +145,7 @@ function Work() {
                             </Row>
                         </Col>
                     </Row>
+
                 </div>
             </Container>
         </>
